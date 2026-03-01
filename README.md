@@ -58,7 +58,7 @@ immunotherapy_predictor/
 ├── results/                            # Figures, mètriques, reports
 ├── docs/
 │   ├── ethical_considerations.md       # Consideracions ètiques
-│   └── clinical_summary.md            # Resum per a oncòlegs
+│   └── clinical_summary.md             # Resum per a oncòlegs
 ├── requirements.txt
 ├── environment.yml
 └── README.md
