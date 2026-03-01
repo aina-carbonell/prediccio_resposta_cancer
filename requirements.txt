@@ -1,0 +1,35 @@
+# Core data science
+numpy==1.26.4
+pandas==2.2.1
+scipy==1.13.0
+scikit-learn==1.4.2
+
+# Machine Learning
+xgboost==2.0.3
+imbalanced-learn==0.12.2
+shap==0.45.0
+
+# Bioinformatics
+biopython==1.83
+requests==2.31.0
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.21.0
+umap-learn==0.5.6
+
+# Dashboard
+streamlit==1.33.0
+streamlit-option-menu==0.3.12
+
+# Jupyter
+jupyter==1.0.0
+ipykernel==6.29.4
+nbformat==5.10.4
+
+# Utilities
+joblib==1.4.0
+tqdm==4.66.2
+python-dotenv==1.0.1
+PyYAML==6.0.1
