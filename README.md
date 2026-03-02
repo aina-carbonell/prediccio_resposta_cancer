@@ -36,7 +36,7 @@ immunotherapy_predictor/
 │   ├── 03_feature_engineering.ipynb    # Selecció gens i noves features
 │   ├── 04_modeling.ipynb               # Comparació models ML
 │   ├── 05_SHAP_interpretability.ipynb  # Interpretabilitat SHAP
-│   └── 06_final_report.ipynb           # Resum executiu
+│   └── 06_result_summary.ipynb         # Resum executiu
 ├── src/
 │   ├── data_loader.py                  # Funcions de càrrega de dades
 │   ├── preprocessing.py                # Pipeline de preprocessament
